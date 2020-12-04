@@ -127,7 +127,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           
 
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Questions for dreaming in code</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Big Ball of mud</span></h6>
 
 
          <a href="https://docs.google.com/document/d/1b3Nq8jCwvkPPvM4dRW017KBN8PV9uKRUQR2VC0H-P3s/edit?usp=sharing">
@@ -142,7 +142,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Questions for Code</h6>
 
           <a href="https://docs.google.com/document/d/1gqdJMPHZMk4s-0Mu9x3pcfEb2MZ11_kgXIqafqhXM3w/edit?usp=sharing">
-        <img src="https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735611313&type=f" height="233" width="144"> </a>
+        <img src="https://ibb.co/vzfwBxF" height="233" width="144"> </a>
 
           <p> questions for code </p>
           <hr>
@@ -154,7 +154,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
          
 
 
-
+            <img src="https://ibb.co/vzfwBxF" height="233" width="144"> </a>
 
           <br>
         </div>
