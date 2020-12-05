@@ -131,7 +131,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
          <a href="https://docs.google.com/document/d/1b3Nq8jCwvkPPvM4dRW017KBN8PV9uKRUQR2VC0H-P3s/edit?usp=sharing">
-        <img src="https://pages.uncc.edu/techne/wp-content/uploads/sites/93/2015/02/Google-Docs-Icon.png" height="233" width="144"> </a>
+        <img src="https://pages.uncc.edu/techne/wp-content/uploads/sites/93/2015/02/Google-Docs-Icon.png" height="100" width="80"> </a>
           
 
           
